@@ -162,7 +162,7 @@ section .sec_img
 {
 	height: 550px;
 	margin-top: 0px;
-	background-image: url("images/1.jpg");
+	background-image: url("");
 }
 .box
 {
@@ -180,7 +180,7 @@ section .sec_img
 {
 	height: 650px;
 	margin-top: 0px;
-	background-image: url("images/3.jpg");
+	background-image: url("C:\Users\pipun\OneDrive\Documents\My_project\Library_Management_System\images\3.jpg");
 }
 .box1
 {
@@ -207,7 +207,7 @@ input
 {
 	height: 630px;
 	margin-top: 0px;
-	background-image: url("images/4.png");
+	background-image: url("C:\Users\pipun\OneDrive\Documents\My_project\Library_Management_System\images\4.png");
 }
 .box2
 {
